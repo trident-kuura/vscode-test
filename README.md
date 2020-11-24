@@ -1,6 +1,5 @@
 # Visual Studio Codeの練習
 
 練習です
-
-Githubでファイルを変更
+VScodeでファイルを変更
 jjj
